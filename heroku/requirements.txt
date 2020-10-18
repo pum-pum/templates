@@ -1,0 +1,3 @@
+#can make pip freeze
+
+emoji>=0.5.1
