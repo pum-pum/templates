@@ -1,13 +1,5 @@
 just a couple templates
 
----
-language: markdown
-contributors:
-    - ["Dan Turkel", "http://danturkel.com/"]
-    - ["Jacob Ward", "http://github.com/JacobCWard/"]
-filename: markdown.md
----
-
 
 Markdown was created by John Gruber in 2004. It's meant to be an easy to read 
 and write syntax which converts easily to HTML (and now many other formats as 
@@ -331,3 +323,7 @@ Ugh this is so ugly | make it | stop
 
 ---
 For more info, check out John Gruber's official post of syntax [here](http://daringfireball.net/projects/markdown/syntax) and Adam Pritchard's great cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+*credits to*
+- ["Dan Turkel", "http://danturkel.com/"]
+- ["Jacob Ward", "http://github.com/JacobCWard/"]
