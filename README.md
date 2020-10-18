@@ -324,6 +324,6 @@ Ugh this is so ugly | make it | stop
 ---
 For more info, check out John Gruber's official post of syntax [here](http://daringfireball.net/projects/markdown/syntax) and Adam Pritchard's great cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-*credits to*
+## credits to
 - ["Dan Turkel", "http://danturkel.com/"]
 - ["Jacob Ward", "http://github.com/JacobCWard/"]
