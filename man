@@ -1,0 +1,58 @@
+
+
+.\" Manpage for nuseradd.
+.\" Contact whatever
+.TH man 8 "06 May 2010" "1.0" "nuseradd man page"
+.SH NAME
+nuseradd \- create a new LDAP user 
+.SH SYNOPSIS
+nuseradd [USERNAME]
+.SH DESCRIPTION
+nuseradd is high level shell program for adding users to LDAP server.  On Debian, administrators should usually use nuseradd.debian(8) instead.
+.SH OPTIONS
+The nuseradd does not take any options. However, you can supply username.
+.SH SEE ALSO
+useradd(8), passwd(5), nuseradd.debian(8) 
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+whatever 
+.P
+todo esto debe de ser un parrafo nuevo
+.B 
+este es bold
+.I
+este es cursiva
+.P
+nuevo parrafooo
+.SH section heading (seccion de cabecera)
+.B	Bold
+.BI	Bold and italic
+.BR	Bold and roman 
+.EE	Example end
+.EX	Example end
+.I	Italic
+.IB	Italic and bold 
+.IP	Indented paragraph
+.IR	Italic and roman
+.LP	(Left) paragraph
+.ME	Mail-to end
+.MT	Mail-to start
+.OP	(Command-line) option
+.P	Paragraph
+.PP	Paragraph
+.RB	Roman and bold 
+.RE	Relative-indent end
+.RI	Roman and italic 
+.RS	Relative-indent start
+.SB	Small bold
+.SH	Section heading
+.SM	Small
+.SS	Subsection heading
+.SY	Synopsis start
+.TH	Title heading
+.TP	Tagged paragraph
+.TQ	Tagged paragraph continuation
+.UE	URL end
+.UR	URL start
+.YS	Synopsis end
